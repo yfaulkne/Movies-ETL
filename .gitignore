@@ -1,0 +1,3 @@
+#Ignore config key
+config.py
+__pycache__/
